@@ -54,3 +54,24 @@
 {
     background-color: #CEBAFB;
 }
+
+@media (max-width:1200px) {
+    .data
+    {
+        width: 50%;
+    }
+}
+
+@media (max-width:900px) {
+    .data
+    {
+        width: 70%;
+    }
+}
+
+@media (max-width:650px) {
+    .data
+    {
+        width: 100%;
+    }
+}
